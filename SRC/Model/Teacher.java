@@ -1,5 +1,5 @@
 package SRC.Model;
 
-public class Students {
+public class Teacher {
     
 }
