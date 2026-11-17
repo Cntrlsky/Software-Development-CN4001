@@ -1,3 +1,5 @@
-public class Admin {
+package SRC.Model;
+
+public class Admin {    
     
 }
