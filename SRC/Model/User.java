@@ -1,3 +1,5 @@
-public class User {
+package SRC.Model;
+
+public abstract class User {
     
 }
