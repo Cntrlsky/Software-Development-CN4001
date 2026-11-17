@@ -1,5 +1,22 @@
 package SRC.Service;
 
+import SRC.Model.Teacher;
+import SRC.Model.User;
+
 public class AuthService {
-    
+    public User login(String username, String password) {
+        return null;
+    }
+    public void logout(){
+        // Implementation for logout
+    }
+    public User getCurrentUser(){
+        return null;
+    }
+    public Teacher createTeacher(String name, String username, String password){
+        return null;
+    }
+    public boolean canDo(User user, String action){
+        return false;
+    }
 }
