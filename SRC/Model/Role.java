@@ -1,5 +1,6 @@
 package SRC.Model;
 
-public class Role {
-    
+public enum  Role {
+    ADMIN,
+    TEACHER,
 }
