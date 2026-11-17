@@ -1,7 +1,7 @@
 package SRC.Service;
 
 import SRC.Model.AttendanceRecord;
-import java.io.ObjectInputFilter.Status;
+import SRC.Model.Status;
 import java.time.LocalDate;
 import java.util.List;
 import java.util.Map;
