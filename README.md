@@ -22,11 +22,11 @@ Teachers log in to mark attendance for their own classes. Admins manage teachers
 - Test: tests
 
 ## Team and ownership
-- Person 1, Users and login: <Yasser>
-- Person 2, Students and classes: <Adham>
-- Person 3, Attendance and sessions: <Mohanned>
-- Person 4, Storage and tests: <Davied>
-- Person 5, App flow and integration: <Hamza>
+- Person 1, Users and login: *Yasser*
+- Person 2, Students and classes: *Adham*
+- Person 3, Attendance and sessions: *Mohanned*
+- Person 4, Storage and tests: *Davied*
+- Person 5, App flow and integration: *Hamza*
 
 ## Decisions
 - Lookups that find nothing return null or an empty list.
