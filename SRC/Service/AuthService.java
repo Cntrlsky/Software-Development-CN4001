@@ -1,8 +1,8 @@
 package SRC.Service;
 
+import SRC.Model.Action;
 import SRC.Model.Teacher;
 import SRC.Model.User;
-import SRC.Action;
 
 public class AuthService {
     public User login(String username, String password) {
