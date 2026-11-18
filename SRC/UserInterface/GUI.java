@@ -1,6 +1,5 @@
 package SRC.UserInterface;
 
-public class GUI(IfThereIsTime) {
+public class GUI {
     
 }
-//test
